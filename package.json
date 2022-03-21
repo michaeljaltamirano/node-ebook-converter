@@ -1,21 +1,27 @@
 {
   "name": "node-ebook-converter",
-  "version": "1.0.11",
+  "version": "2.0.0",
   "author": "João Victor Cardoso Kdouk",
+  "contributors" : [
+    {
+      "name" : "Michael Altamirano",
+    }
+  ],
   "readme": "README.md",
-  "homepage": "https://github.com/JVKdouk/node-ebook-converter",
+  "homepage": "https://github.com/michaeljaltamirano/node-ebook-converter",
   "bugs": {
     "email": "xadestar@gmail.com",
-    "url": "https://github.com/JVKdouk/node-ebook-converter/issues"
+    "url": "https://github.com/michaeljaltamirano/node-ebook-converter/issues"
   },
   "keywords": ["Convert PDF", "Convert", "NodeJS PDF Converter", "Ebook Converter", "Convert Ebook", "Nodejs Calibre", "Nodejs Converter Calibre"],
   "description": "Node.js minimal and powerful ebook converter (single package) with built-in queue and threading functionalities",
   "repository": {
-    "url": "https://github.com/JVKdouk/node-ebook-converter"
+    "url": "https://github.com/michaeljaltamirano/node-ebook-converter"
   },
   "main": "index.js",
   "license": "MIT",
   "scripts": {
     "start": "node index.js --experimental-worker"
-  }
+  },
+  
 }
