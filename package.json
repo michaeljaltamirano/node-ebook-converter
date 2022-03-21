@@ -1,6 +1,6 @@
 {
   "name": "node-ebook-converter",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "author": "João Victor Cardoso Kdouk",
   "contributors" : [
     {
@@ -22,6 +22,5 @@
   "license": "MIT",
   "scripts": {
     "start": "node index.js --experimental-worker"
-  },
-  
+  }
 }
