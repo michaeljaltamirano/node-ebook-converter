@@ -1,10 +1,10 @@
 {
   "name": "node-ebook-converter",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "author": "João Victor Cardoso Kdouk",
   "contributors" : [
     {
-      "name" : "Michael Altamirano",
+      "name" : "Michael Altamirano"
     }
   ],
   "readme": "README.md",
